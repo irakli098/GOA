@@ -1,0 +1,2 @@
+list_list = ["giorgi cxadadze","giorgi janxoteli","mariam jalaghonia","nani matiashvili","nikolos baghaturia","saba bokuchava","sofia gorgadze","davit narimanidze","luka lortkipanidze","giorgi xucishvili","zuka abashidze",]
+print(list_list)
