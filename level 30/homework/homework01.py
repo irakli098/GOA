@@ -45,7 +45,7 @@
 #         return "zero"
 #     else:
 #         return "negative"
-    
+
 
 # 5) შექმენით ფუნქცია რომელსაც არგუმენტად გადაეცემა რიცხვი შემდეგ კი ფუნქციამ უნდა დაგვიბრუნოს მისი საპირისპირო რიცხვი
 
@@ -54,3 +54,4 @@
 # def opposite(number):
 #     return number * -1
 # print(opposite(num))
+
